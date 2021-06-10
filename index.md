@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+# Joshua Ray's ePortfolio
 
-You can use the [editor on GitHub](https://github.com/RayJayShark/RayJayShark.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am a Software Developer with experience in .NET for console and websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below, you can find some examples of my work.
 
-### Markdown
+## Poker Bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Poker Bot is a bot I created to use with Discord. This bot allows users to play Texas Hold 'Em through text commands in Discord.
+
+### Code Review
+Click [here](https://youtu.be/MvgIYVz5mVM) to see my video code review of Poker Bot before making some planned enhancements.
 
 ```markdown
 Syntax highlighted code block
