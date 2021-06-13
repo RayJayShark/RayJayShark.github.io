@@ -5,11 +5,11 @@ I added a logging service to create meaningful output from the console that woul
 
 ## Narrative
 
-Click [here]() to access the narrative I created with this enhancement.
+Click [here](https://github.com/RayJayShark/RayJayShark.github.io/blob/main/Narratives/SoftwareDesignNarrative_JoshuaRay.docx) to access the narrative I created with this enhancement.
 
 ## Code
 
-Click [here](https://github.com/RayJayShark/RayJayShark.github.io/blob/main/PokerBot_AlgorithmsEnhancement.zip) to find the zip archive of the project after the enhancement.
+Click [here](https://github.com/RayJayShark/RayJayShark.github.io/blob/main/Enhancements/PokerBot_SoftwareDesignEnhancement.zip) to find the zip archive of the project after the enhancement.
 After being extracted, the project can be openned in an IDE of your choice and compiles.
 
 ### Important Examples
