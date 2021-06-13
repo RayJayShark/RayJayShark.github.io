@@ -5,7 +5,7 @@ I added a logging service to create meaningful output from the console that woul
 
 ## Narrative
 
-Click [here](https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_JoshuaRay.docx) to access the narrative I created with this enhancement.
+Click [here](https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_JoshuaRay.pdf) to access the narrative I created with this enhancement.
 
 ## Code
 
