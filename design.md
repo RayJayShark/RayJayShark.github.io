@@ -9,7 +9,7 @@ Click [here](https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_Jo
 
 ## Code
 
-Click [here](https://rayjayshark.github.io/Enhancements/PokerBot_AlgorithmsEnhancement.zip) to find the zip archive of the project after the enhancement.
+Click [here](https://rayjayshark.github.io/Enhancements/PokerBot_SoftwareDesignEnhancement.zip) to find the zip archive of the project after the enhancement.
 After being extracted, the project can be openned in an IDE of your choice and compiles.
 
 ### Important Examples
