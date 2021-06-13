@@ -5,7 +5,7 @@ I added a logging service to create meaningful output from the console that woul
 
 ## Narrative
 
-Click [here](https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_JoshuaRay.pdf) to access the narrative I created with this enhancement.
+Click <a href="https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_JoshuaRay.pdf" target="_blank">here</a> to access the narrative I created with this enhancement.
 
 ## Code
 

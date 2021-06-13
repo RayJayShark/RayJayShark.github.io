@@ -5,7 +5,7 @@ I created an algorithm for scoring and comparing the poker hands using asynchron
 
 ## Narrative
 
-Click [here](https://rayjayshark.github.io/Narratives/AlgorithmsDataStructuresNarrative_JoshuaRay.pdf) to access the narrative I created with this enhancement.
+Click <a href="https://rayjayshark.github.io/Narratives/AlgorithmsDataStructuresNarrative_JoshuaRay.pdf" target="_blank">here</a> to access the narrative I created with this enhancement.
 
 ## Code
 
