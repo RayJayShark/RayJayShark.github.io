@@ -9,7 +9,7 @@ Below, you can find some examples of my work.
 Poker Bot is a bot I created to use with Discord. This bot allows users to play Texas Hold 'Em through text commands in Discord.
 
 ## Code Review
-Click [here](https://youtu.be/MvgIYVz5mVM) to see my video code review of Poker Bot before making some planned enhancements.
+Click <a href="https://youtu.be/MvgIYVz5mVM" target="_blank">here</a> to see my video code review of Poker Bot before making some planned enhancements.
 
 ## Enhancements
 There were three enhancments made to this project, one for each of the following categories:
