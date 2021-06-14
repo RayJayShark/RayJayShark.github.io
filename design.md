@@ -16,7 +16,7 @@ The link takes you directly to the branch for this enhancement.
 
 #### LogObject
 
-One important snippit of this enhancement is the LogObject abstract class that is used as a framework for more specific logs.
+One important snippet of this enhancement is the LogObject abstract class that is used as a framework for more specific logs.
 You can see the imformation that is stored with each log.
 
 ```cs
@@ -38,6 +38,7 @@ You can see the imformation that is stored with each log.
 #### WriteLog()
 
 The WriteLog() method in the LogService class is used to write the log information to the console.
+The first if statement ensures only the desired severity of logs are output.
 
 ```cs
   public void WriteLog(LogObject log)

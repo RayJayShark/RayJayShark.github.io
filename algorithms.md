@@ -39,7 +39,7 @@ The calculate score method is called when a 5-card Hand object is instantiated. 
 
 #### Async Combinations and Scoring
 
-This snippit is the beginning of the Showdown phase where the possible hands for each player need to be found and scored.
+This snippet is the beginning of the Showdown phase where the possible hands for each player need to be found and scored.
 Since the hands are scored on instantiated, finding the combinations also finds the scores for each combination.
 Async tasks are used to find these more efficiently.
 
