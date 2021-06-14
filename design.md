@@ -9,8 +9,8 @@ Click <a href="https://rayjayshark.github.io/Narratives/SoftwareDesignNarrative_
 
 ## Code
 
-Click <a href="https://github.com/RayJayShark/PokerBot/tree/category1-software-design-engineering" target="_blank">here</a> to find the zip archive of the project after the enhancement.
-After being extracted, the project can be openned in an IDE of your choice and compiles.
+Click <a href="https://github.com/RayJayShark/PokerBot/tree/category1-software-design-engineering" target="_blank">here</a> to find the repository for this project.
+The link takes you directly to the branch for this enhancement.
 
 ### Important Examples
 

@@ -9,8 +9,8 @@ Click <a href="https://rayjayshark.github.io/Narratives/AlgorithmsDataStructures
 
 ## Code
 
-Click <a href="https://github.com/RayJayShark/PokerBot/tree/category2-algorithms-data-structures" target="_blank">here</a> to find the zip archive of the project after the enhancement.
-After being extracted, the project can be openned in an IDE of your choice and compiles.
+Click <a href="https://github.com/RayJayShark/PokerBot/tree/category2-algorithms-data-structures" target="_blank">here</a> to find the repository for this project.
+The link takes you directly to the branch for this enhancement.
 This enhancement includes a test project used to ensure the scoring algorithm works correctly.
 
 ### Important Examples
