@@ -1,5 +1,3 @@
-
-
 Hello! I am a Software Developer with experience in .NET for console and websites.
 
 Below, you can find some examples of my work.
@@ -10,6 +8,7 @@ Poker Bot is a bot I created to use with Discord. This bot allows users to play 
 
 ## Code Review
 Click <a href="https://youtu.be/MvgIYVz5mVM" target="_blank">here</a> to see my video code review of Poker Bot before making some planned enhancements.
+The pre-enhancement source code can be found on the pre-enhancement branch of the git repository <a href="https://github.com/RayJayShark/PokerBot/tree/pre-enhancement" target="_blank">here</a>.
 
 ## Enhancements
 There were three enhancments made to this project, one for each of the following categories:
